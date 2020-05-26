@@ -1,7 +1,7 @@
 # Burgers-equation-convection-diffusion-in-2D
 Solving Burgers equation using Python
 
-Burgers equation which is a combination of convection-diffusion and is very pruminent in solving N-S equations was solved with simple initial conditions
+Burgers equation which is a combination of convection-diffusion equations was solved with simple initial conditions
 
 Burgers equation : ∂u/∂t + u.∂u/∂x + v.∂u/∂y = nu.(∂2u/∂x2 + ∂2u/∂y2)
 
